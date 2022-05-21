@@ -1,2 +1,2 @@
-# metadata-cleaner
+# Metadata Cleaner
 Files metadata cleaner in C#
