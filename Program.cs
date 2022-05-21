@@ -26,3 +26,5 @@
 // The Sanitizer method remove all metadata from any supported file without filters.
 MetadataHelper.RemoveAllMetadata("Assets/Marktrade.png", "C:/Users/vinic/Downloads/Marktrade-clear.png");
 
+// Remove targetted metadata properties using the specific name of the property instead of remove all.
+MetadataHelper.RemoveSpecificMetadata("Assets/Marktrade.png", "C:/Users/vinic/Downloads/Marktrade-clear.png");
